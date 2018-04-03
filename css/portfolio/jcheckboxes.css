@@ -1,0 +1,14 @@
+input.jcb-hidden { display: none; }
+label.jcb-checkbox,
+label.jcb-radio { cursor: pointer; position: relative; overflow: hidden; display: block; width: 100%; }
+label.jcb-checkbox .label-icon,
+label.jcb-radio .label-icon { float: left; background: url(../../images/sprite.png) no-repeat; margin-top: 3px; }
+label.jcb-checkbox .label-text,
+label.jcb-radio .label-text { float: left; padding: 1px 10px 0 5px; font-size: 16px; line-height: 22px; font-family: 'source_sans_proregular', arial, sans-serif; font-weight: normal; }
+label.jcb-checkbox .label-icon { width: 21px; height: 21px; background-position: -36px -68px; }
+label.jcb-checkbox.jcb-checked .label-icon { background-position: -8px -68px; }
+label.jcb-radio .input-icon { width: 17px; height: 17px; background-position: 0 0; }
+label.jcb-radio.jcb-checked .label-icon { background-position: right 0; }
+
+body.color-style-gray label.jcb-checkbox .label-icon { background-position: -90px 968px; }
+body.color-style-gray label.jcb-checkbox.jcb-checked .label-icon { background-position: -63px -68px; }

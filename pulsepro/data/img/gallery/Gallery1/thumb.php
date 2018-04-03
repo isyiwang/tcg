@@ -1,0 +1,1 @@
+<?php $_SERVER['DOCUMENT_ROOT'] = dirname( __FILE__ ); include('../../../../plugins/timthumb/tim_thumb.php'); ?>
