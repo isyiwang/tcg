@@ -34,14 +34,14 @@ body { background: #fff;	color: #585f6b;	width: 100%; line-height: 1.5; }
 #menu { float: right; padding-top: 42px;	position: relative; }
 #menu ul li { float: left; padding-left: 30px; height: 44px; }
 #menu ul li a {
-	display: block;
-	font-family: OpenSans-Semibold;
-	text-decoration: none;
-	font-size: 16px;
-	padding-top: 3px;
-	color: #888f97;
-	font-weight:600;
-	text-transform: uppercase;
+    display: block;
+    font-family: OpenSans-light;
+    text-decoration: none;
+    font-size: 16px;
+    padding-top: 3px;
+    color: #888f97;
+    font-weight: 600;
+    text-transform: none;}
 }nav#menu > ul > li  a.current_a {    display: block;
     font-family: OpenSans-Semibold;
     text-decoration: none;
