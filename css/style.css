@@ -43,11 +43,11 @@ body { background: #fff;	color: #585f6b;	width: 100%; line-height: 1.5; }
     font-weight: 600;
     text-transform: none;}
 }nav#menu > ul > li  a.current_a {    display: block;
-    font-family: OpenSans-Semibold;
+    font-family: OpenSans-light;
     text-decoration: none;
     font-size: 16px;
     padding-top: 3px;
-    color: #AC1100;
+    color: #20666F;
 	font-weight:600
 }
 #menu ul li a:hover {
