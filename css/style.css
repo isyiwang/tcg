@@ -52,11 +52,11 @@ body { background: #fff;	color: #585f6b;	width: 100%; line-height: 1.5; }
 }
 #menu ul li a:hover {
 	display: block;
-	font-family: OpenSans-Semibold;
-	text-decoration: none;
-	color: #000000;
-	font-size: 16px;
-	padding-top: 3px;
+	  font-family: OpenSans-light;
+    text-decoration: none;
+    font-size: 16px;
+    padding-top: 3px;
+    color: #20666F;
 	font-weight:600
 }
 #menu ul li a.menu_blue:hover { height: 44px; background: url(../images/icon-blue.png) no-repeat bottom center; }
